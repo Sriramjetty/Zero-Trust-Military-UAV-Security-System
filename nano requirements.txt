@@ -1,0 +1,33 @@
+  GNU nano 8.4                                               requirements.txt
+# ===============================
+# Core Backend Framework
+# ===============================
+Flask>=2.0
+Flask-SocketIO>=5.3
+eventlet>=0.33
+
+# ===============================
+# Security & Zero Trust
+# ===============================
+Flask-JWT-Extended>=4.5
+Flask-Limiter>=3.5
+Werkzeug>=2.0
+
+# ===============================
+# AI / Anomaly Detection
+# ===============================
+numpy>=1.21
+scikit-learn>=1.0
+
+# ===============================
+# Optional Hardware Sensors (Raspberry Pi)
+# ===============================
+# MPU6050 IMU
+# mpu6050-raspberrypi>=0.0.7
+# OR
+# mpu6050>=0.2.0
+
+# INA219 Power Sensor
+                                            [ Read 37 lines (converted from DOS format) ]
+^G Help         ^O Write Out    ^F Where Is     ^K Cut          ^T Execute      ^C Location     M-U Undo        M-A Set Mark
+^X Exit         ^R Read File    ^\ Replace      ^U Paste        ^J Justify      ^/ Go To Line   M-E Redo        M-6 Copy
