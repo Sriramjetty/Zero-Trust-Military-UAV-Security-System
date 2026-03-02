@@ -45,3 +45,12 @@ python -m pip install -r requirements.txt
 ```powershell
 python app.py
 
+##results after the steps are completed :
+## 📸 Screenshots
+
+![Login](docs/screenshots/login.jpeg)
+![Dashboard](docs/screenshots/dashboard.jpeg)
+![Anomaly](docs/screenshots/anomaly.jpeg)
+![Audit](docs/screenshots/audit.jpeg)
+![RBAC](docs/screenshots/rbac.jpeg)
+![XAI](docs/screenshots/xai.png)
